@@ -1,0 +1,191 @@
+{
+  "scholarships": [
+    {
+      "name": "Phoenix Scholarship - Bachelor's",
+      "degreeLevel": "Bachelor's",
+      "month": "February 2021",
+      "categories": ["new-student", "returning-student"],
+      "status": "active",
+      "url": "https://1phoenixscholars.communityforce.com/Funds/FundDetails.aspx?4438534B376C50326C634538384B74656E6C31635774572F38387563314C644839596A5A454B4F58642F436B584B486C67366A70336E2B464C46514A62643655",
+      "awardAmount": "Up to $1,000",
+      "deadline": "Feb. 28, 2021",
+      "description": "For adult learners with 3 years of work experience pursuing their bachelor's degree at University of Phoenix."
+    },
+    {
+      "name": "Phoenix Scholarship - Master's",
+      "degreeLevel": "Master's",
+      "month": "February 2021",
+      "categories": ["new-student", "returning-student"],
+      "status": "active",
+      "url": "https://1phoenixscholars.communityforce.com/Funds/FundDetails.aspx?306D773059326330666D6643665547536473416339476A377846385245556F7A55593158326E496A3345355355534A67563042665863694746396568384E6467",
+      "awardAmount": "Up to $1,000",
+      "deadline": "Feb. 28, 2021",
+      "description": "For adult learners with 3 years of work experience pursuing their master's degree at University of Phoenix."
+    },
+    {
+      "name": "Academic Achievement Scholarship - Bachelor's",
+      "degreeLevel": "Bachelor's",
+      "month": "February 2021",
+      "categories": ["new-student"],
+      "status": "active",
+      "url": "https://1phoenixscholars.communityforce.com/Funds/FundDetails.aspx?54614E38614B68774C466F312F586C4D45782B3957315275795061616456696D3849794D71337344554B6D4361505158686679795A593731444135662B424E73",
+      "awardAmount": "$1,000",
+      "deadline": "Feb. 28, 2021",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem aliquam erat volutpat."
+    },
+    {
+      "name": "Academic Achievement Scholarship - Master's",
+      "degreeLevel": "Master's",
+      "month": "February 2021",
+      "categories": ["new-student"],
+      "status": "active",
+      "url": "https://1phoenixscholars.communityforce.com/Funds/FundDetails.aspx?7452706856463478532F4747576764744F6D6347504D4E4A3055544C6841734F4B3465366D46626C65773976516D61356C594C76337172544B2B784E34784652",
+      "awardAmount": "$1,000",
+      "deadline": "Feb. 28, 2021",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem aliquam erat volutpat."
+    },
+    {
+      "name": "Transfer Student Scholarship - Bachelor's",
+      "degreeLevel": "Bachelor's",
+      "month": "February 2021",
+      "categories": ["new-student"],
+      "status": "active",
+      "url": "https://1phoenixscholars.communityforce.com/Funds/FundDetails.aspx?4438534B376C50326C634538384B74656E6C31635774572F38387563314C644839596A5A454B4F58642F436B584B486C67366A70336E2B464C46514A62643655",
+      "awardAmount": "$1,000",
+      "deadline": "Feb. 28, 2021",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem aliquam erat volutpat."
+    },
+    {
+      "name": "Transfer Student Scholarship - Master's",
+      "degreeLevel": "Master's",
+      "month": "February 2021",
+      "categories": ["new-student"],
+      "status": "active",
+      "url": "https://1phoenixscholars.communityforce.com/Funds/FundDetails.aspx?4757532B315A42554E6C634A374A38585977615359715858474F63496B4C644872776B6E6861562B4F764C7964354B4632446E2F723959785366676452714253",
+      "awardAmount": "$1,000",
+      "deadline": "Feb. 28, 2021",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem aliquam erat volutpat."
+    },
+    {
+      "name": "Future First BSIT Scholarship",
+      "degreeLevel": "Bachelor's",
+      "month": "February 2021",
+      "categories": ["new-student"],
+      "status": "active",
+      "url": "https://1phoenixscholars.communityforce.com/Funds/FundDetails.aspx?4438534B376C50326C63484D76354D43743373743563485938615546354246354D7954746E433853696F7450634C5064666E66646448456750766E6D38636D38",
+      "awardAmount": "$1,000",
+      "deadline": "Feb. 28, 2021",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem aliquam erat volutpat."
+    },
+    {
+      "name": "Future First BSN Scholarship",
+      "degreeLevel": "Bachelor's",
+      "month": "February 2021",
+      "categories": ["new-student"],
+      "status": "active",
+      "url": "https://1phoenixscholars.communityforce.com/Funds/FundDetails.aspx?2F56617562464C45306A7333384775794F2B43595A2B534C3370394249653431662B34554A36333979517855733764496D472B424C2F6868654D4643652F514F",
+      "awardAmount": "$1,000",
+      "deadline": "Feb. 28, 2021",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem aliquam erat volutpat."
+    },
+    {
+      "name": "Future First MSN Scholarship",
+      "degreeLevel": "Master's",
+      "month": "February 2021",
+      "categories": ["new-student"],
+      "status": "active",
+      "url": "https://1phoenixscholars.communityforce.com/Funds/FundDetails.aspx?6F674271586D41325155447841634A79626A6637454A5478496176792B44596C614652376D5972704335522F6F664E33584E386B77526E7362584E32542B4943",
+      "awardAmount": "$1,000",
+      "deadline": "Feb. 28, 2021",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem aliquam erat volutpat."
+    },
+    {
+      "name": "Financial Impact Scholarship - Bachelor's",
+      "degreeLevel": "Bachelor's",
+      "month": "February 2021",
+      "categories": ["new-student", "returning-student"],
+      "status": "active",
+      "url": "https://1phoenixscholars.communityforce.com/Funds/FundDetails.aspx?2B336C5030514338437752315A464B506A53617664514D2B2F6C4B4C6A446437425A716C6131304F586D33336946714A574A623954766653622B726830383842",
+      "awardAmount": "$1,000",
+      "deadline": "Feb. 28, 2021",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem aliquam erat volutpat."
+    },
+    {
+      "name": "Financial Impact Scholarship - Master's",
+      "degreeLevel": "Master's",
+      "month": "February 2021",
+      "categories": ["new-student", "returning-student"],
+      "status": "active",
+      "url": "https://1phoenixscholars.communityforce.com/Funds/FundDetails.aspx?3974434C474C374F385A777A724379755137514E456D486945645857334C346278767067436F59376F3959346C79624A50786630676D544578513553716C4F52",
+      "awardAmount": "$1,000",
+      "deadline": "Feb. 28, 2021",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem aliquam erat volutpat."
+    },
+    {
+      "name": "Life Long Learner Scholarship - Bachelor's",
+      "degreeLevel": "Bachelor's",
+      "month": "February 2021",
+      "categories": ["alumni"],
+      "status": "active",
+      "url": "https://1phoenixscholars.communityforce.com/Funds/FundDetails.aspx?634874666E67316C32307756576A4B5057735855454B4144517373524D436150423445334742366C7658455971545234497236766C5951325A716A7979463741",
+      "awardAmount": "$1,000",
+      "deadline": "Feb. 28, 2021",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem aliquam erat volutpat."
+    },
+    {
+      "name": "Life Long Learner Scholarship - Master's",
+      "degreeLevel": "Master's",
+      "month": "February 2021",
+      "categories": ["alumni"],
+      "status": "active",
+      "url": "https://1phoenixscholars.communityforce.com/Funds/FundDetails.aspx?4438534B376C50326C63466A7548365346376B6D6F4D51564155374B4934617742747A69734156656848304B5630767341494B656368666348585037507A2F34",
+      "awardAmount": "$1,000",
+      "deadline": "Feb. 28, 2021",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem aliquam erat volutpat."
+    },
+    {
+      "name": "Returning Student Scholarship - Bachelor's",
+      "degreeLevel": "Bachelor's",
+      "month": "February 2021",
+      "categories": ["returning-student"],
+      "status": "active",
+      "url": "https://1phoenixscholars.communityforce.com/Funds/FundDetails.aspx?4438534B376C50326C634632656B4C6545466E4E766445693231764972434A334D4A6E33476736666844527967734B7054745567454355504E53424D6A482F4C",
+      "awardAmount": "$1,000",
+      "deadline": "Feb. 28, 2021",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem aliquam erat volutpat."
+    },
+    {
+      "name": "Returning Student Scholarship - Master's",
+      "degreeLevel": "Master's",
+      "month": "February 2021",
+      "categories": ["returning-student"],
+      "status": "active",
+      "url": "https://1phoenixscholars.communityforce.com/Funds/FundDetails.aspx?4438534B376C50326C6345374B41314D522F6D3059675358634B3471524D46386F683651483661703571316D6B624977644F575A2B545946644F37356B335567",
+      "awardAmount": "$1,000",
+      "deadline": "Feb. 28, 2021",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem aliquam erat volutpat."
+    },
+    {
+      "name": "Academic Achievement Scholarship for Current Students - Bachelor's",
+      "degreeLevel": "Bachelor's",
+      "month": "February 2021",
+      "categories": ["current-student"],
+      "status": "active",
+      "url": "https://1phoenixscholars.communityforce.com/Funds/FundDetails.aspx?306D773059326330666D6434537454593563485A4E4B68366D65697753774B6339765775457A39673533327476357548736E784F37786F6548614E6D42496A39",
+      "awardAmount": "$1,000",
+      "deadline": "Feb. 28, 2021",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem aliquam erat volutpat."
+    },
+    {
+      "name": "Academic Achievement Scholarship for Current Students - Master's",
+      "degreeLevel": "Master's",
+      "month": "February 2021",
+      "categories": ["current-student"],
+      "status": "active",
+      "url": "https://1phoenixscholars.communityforce.com/Funds/FundDetails.aspx?6F674271586D41325155426F43686D64656A555647707A524B53706B353767502F77644C6B6E654B395A73382F366A443762343343393036614F59684C707838",
+      "awardAmount": "$1,000",
+      "deadline": "Feb. 28, 2021",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem aliquam erat volutpat."
+    }
+  ]
+}
